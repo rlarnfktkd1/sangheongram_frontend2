@@ -1,0 +1,6 @@
+yarn add styled-components, react-router-dom, graphql, react-apollo-hooks, apollo-boost
+react-helmet도 설치
+react-toastify, styled-reset
+
+toastify =  notification관련
+styled-reset = CSS 관련된 것.
